@@ -10,7 +10,7 @@ The purpose of this project is to apply for the job posting of the job seeker.
   - User enters training information 
   - Then, the user performs the ad selection process.  
 
-## Oluşan database tabloları şu şekildedir ; 
+## The resulting database tables are as follows ; 
  
 ![adrsUserDetail](https://user-images.githubusercontent.com/73312086/137005854-fb6488ff-e4d7-4e30-a978-35e640a97dbc.PNG)
 
