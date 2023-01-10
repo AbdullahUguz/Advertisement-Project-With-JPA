@@ -14,7 +14,7 @@
 				value="jdbc:sqlserver://192.168.120.144;databaseNAME=jpa" />
 			<property name="javax.persistence.jdbc.user" value="SA" />
 			<property name="javax.persistence.jdbc.password"
-				value="Apo_0808" />
+				value="YourDBPassword" />
 
 			<property name="hibernate.dialect"
 				value="org.hibernate.dialect.SQLServerDialect" />
